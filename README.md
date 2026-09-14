@@ -46,8 +46,8 @@ getirir.
 
 <p align="center">
   <img src="screenshots/editor.jpg" width="260" alt="Kod editörü" />
-  <img src="screenshots/temalar.jpg" width="260" alt="Tema seçimi" />
-  <img src="screenshots/eklentiler.jpg" width="260" alt="Eklentiler" />
+  <img src="screenshots/themes.jpg" width="260" alt="Tema seçimi" />
+  <img src="screenshots/addons.jpg" width="260" alt="Eklentiler" />
 </p>
 
 ## Teknoloji
