@@ -11,6 +11,25 @@
 
 ---
 
+## Ekran Görüntüleri
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="screenshots/editor.jpg" width="240" alt="" /><br/>
+      <sub></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/themes.jpg" width="240" alt="" /><br/>
+      <sub></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/addons.jpg" width="240" alt="" /><br/>
+      <sub></sub>
+    </td>
+  </tr>
+</table>
+
 ## Nedir?
 
 **PySpace**, telefonundan/tabletinden Python projeleri üzerinde çalışmanı
@@ -41,25 +60,6 @@ getirir.
 - **Klavye kısayolları** — harici klavye desteğiyle tamamen özelleştirilebilir
 - **Çoklu proje desteği** — projeler arasında hızlı geçiş
 - **Docstring üretici**
-
-## Ekran Görüntüleri
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="screenshots/editor.jpg" width="240" alt="" /><br/>
-      <sub></sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/themes.jpg" width="240" alt="" /><br/>
-      <sub></sub>
-    </td>
-    <td align="center">
-      <img src="screenshots/addons.jpg" width="240" alt="" /><br/>
-      <sub></sub>
-    </td>
-  </tr>
-</table>
 
 ## Teknoloji
 
