@@ -6,7 +6,7 @@
 
 <p align="center">
   Mobilde Python geliştirmek için native bir Android IDE'si.<br/>
-  Kişisel bir hobi projesi olarak geliştiriliyor.
+  Kişisel bir hobi projesidir.
 </p>
 
 ---
@@ -96,9 +96,4 @@ Yazarın açık izni olmadan kopyalanamaz, değiştirilemez, dağıtılamaz
 veya ticari/ticari olmayan herhangi bir amaçla kullanılamaz.
 ```
 
-Proje kararlı bir sürüme ulaştığında uygun bir açık kaynak lisansı
-(ör. MIT) eklenmesi planlanıyor.
-
-## İletişim
-
-GitHub: [github.com/esvius](https://github.com/esvius)
+Proje kararlı bir sürüme ulaştığında uygun bir açık kaynak lisansı eklenmesi planlanıyor.
