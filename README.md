@@ -48,14 +48,14 @@ getirir.
   <tr>
     <td align="center">
       <img src="screenshots/editor.jpg" width="240" alt="Kod editörü" /><br/>
-      <sub>Kod editörü</sub>
+      <sub></sub>
     </td>
     <td align="center">
-      <img src="screenshots/themes.jpg" width="240" alt="Tema seçimi" /><br/>
+      <img src="screenshots/themes.jpg" width="240" alt="" /><br/>
       <sub>Tema seçimi</sub>
     </td>
     <td align="center">
-      <img src="screenshots/addons.jpg" width="240" alt="Eklentiler" /><br/>
+      <img src="screenshots/addons.jpg" width="240" alt="" /><br/>
       <sub>Eklentiler</sub>
     </td>
   </tr>
