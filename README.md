@@ -84,16 +84,28 @@ Chaquopy Android'e özgü olduğu için iOS desteği bulunmuyor.
 ## Lisans
 
 Bu proje halen aktif geliştirme aşamasındadır ve henüz kararlı bir sürüme
-ulaşmamıştır. Bu nedenle şimdilik **açık kaynak bir lisans altında
-yayınlanmamaktadır** — tüm hakları saklıdır.
+ulaşmamıştır. Kaynak kod üzerindeki tüm haklar saklıdır; ancak derlenmiş
+**`app-release.apk`** dosyasını herkes ücretsiz olarak indirip kurabilir,
+kullanabilir ve test edebilir. Uygulamayı denerken karşılaştığın hataları,
+çökmeleri veya önerilerini [Issues](../../issues) sekmesinden paylaşman
+geliştirmeye doğrudan katkı sağlar.
 
 ```
 Copyright (c) 2026 Esvi (github.com/esvius)
 Tüm hakları saklıdır.
 
+BETA TEST İZNİ
+Bu depoda yayınlanan app-release.apk, herkes tarafından ücretsiz olarak
+indirilebilir, cihaza kurulabilir, kullanılabilir ve test edilebilir.
+Test sırasında karşılaşılan hata, çökme ve önerilerin proje sahibiyle
+(Issues sekmesi veya GitHub üzerinden) paylaşılması teşvik edilir.
+
+KAYNAK KOD
 Bu depodaki kaynak kod yalnızca inceleme amacıyla herkese açıktır.
 Yazarın açık izni olmadan kopyalanamaz, değiştirilemez, dağıtılamaz
-veya ticari/ticari olmayan herhangi bir amaçla kullanılamaz.
+veya ticari/ticari olmayan herhangi bir amaçla kullanılamaz. Bu izin
+yalnızca yukarıda belirtilen derlenmiş APK'nın kullanımını kapsar,
+kaynak kod üzerinde herhangi bir hak devri anlamına gelmez.
 ```
 
 Proje kararlı bir sürüme ulaştığında uygun bir açık kaynak lisansı eklenmesi planlanıyor.
