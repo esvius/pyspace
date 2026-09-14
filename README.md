@@ -47,16 +47,16 @@ getirir.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="screenshots/editor.jpg" width="240" alt="Kod editörü" /><br/>
+      <img src="screenshots/editor.jpg" width="240" alt="" /><br/>
       <sub></sub>
     </td>
     <td align="center">
       <img src="screenshots/themes.jpg" width="240" alt="" /><br/>
-      <sub>Tema seçimi</sub>
+      <sub></sub>
     </td>
     <td align="center">
       <img src="screenshots/addons.jpg" width="240" alt="" /><br/>
-      <sub>Eklentiler</sub>
+      <sub></sub>
     </td>
   </tr>
 </table>
