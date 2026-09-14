@@ -64,45 +64,6 @@ getirir.
 Şu an yalnızca **Android**. Python çalıştırma altyapısı olarak kullanılan
 Chaquopy Android'e özgü olduğu için iOS desteği bulunmuyor.
 
-## Başlarken
-
-### Gereksinimler
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) `>=3.3.0`
-- Android Studio / Android SDK
-- Geliştirme makinende **Python 3.11** (derleme sırasında Chaquopy'nin
-  bağımlılıkları — ör. Jedi — indirebilmesi için gerekli; cihaza kurulan
-  Python'dan bağımsızdır)
-
-### Kurulum
-
-```bash
-git clone https://github.com/esvius/pyspace.git
-cd pyspace
-flutter pub get
-
-# Uygulama ikonu ve açılış ekranını (splash) üretmek için:
-dart run flutter_launcher_icons
-dart run flutter_native_splash:create
-
-flutter run
-```
-
-## Proje Yapısı
-
-```
-lib/
-├── main.dart
-├── models/          # EditorTab, EditorTheme, RunConfig, KeymapAction
-├── services/         # Analyzer/Python köprüleri, tema & klavye servisleri
-├── screens/           # Ana ekran, ayar ekranları, hakkında ekranı
-└── widgets/            # Dosya gezgini vb. paylaşılan bileşenler
-
-android/app/src/main/
-├── kotlin/…/MainActivity.kt   # Flutter <-> Python method channel
-└── python/                     # analyzer.py, runner.py (Chaquopy)
-```
-
 ## Bilinen Sınırlamalar
 
 - Eklentiler herhangi bir sandbox olmadan, tam cihaz izniyle çalışır —
