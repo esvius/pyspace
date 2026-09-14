@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/logo.png" width="96" alt="PySpace logo" />
+  <img src="screenshots/logo.png" width="124" alt="PySpace logo" />
 </p>
 
 <h1 align="center">PySpace</h1>
